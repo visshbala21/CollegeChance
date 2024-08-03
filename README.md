@@ -1,2 +1,1 @@
-# CollegeChance
-In progress.
+# CollegeChancePredictor
